@@ -16,3 +16,4 @@ Items that touch several repositories are written out in full in one *lead* repo
 - [ ] <a id="polarity"></a>**Helpdesk chart for thermostat wire polarity and crossover.** Also affects: needforheat-boiler-monitor-hardware. *(Trello #269)*
 - [ ] → Finish the rename from Twomes to NeedForHeat — see [needforheat-generic-firmware](https://github.com/energiegedrag-nl/needforheat-generic-firmware/blob/main/TODO.md#rename) *(Trello #1030)*
 - [ ] → CONTRIBUTING.md with the branching workflow — see [needforheat-generic-firmware](https://github.com/energiegedrag-nl/needforheat-generic-firmware/blob/main/TODO.md#contrib) *(Trello #394, #1032)*
+- [ ] → Home Assistant as a data source — see [needforheat-server-api](https://github.com/energiegedrag-nl/needforheat-server-api/blob/main/TODO.md#ha)
