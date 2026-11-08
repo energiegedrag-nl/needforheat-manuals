@@ -1,6 +1,8 @@
 # About NeedForHeat
 
-The NeedForHeat app is developed by the [Energy Transition Research Group](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) at [Windesheim University of Applied Sciences](https://www.windesheim.nl/) for the [REDUCEDHEATCARB research project](https://edu.nl/gutuc). The research is conducted in collaboration with [BDR Thermea](https://www.bdrthermeagroup.com/), the parent company of [Remeha](https://www.remeha.nl/).
+This measurement campaign is run by {{ORGANISATION}}. Questions about this campaign: {{CONTACT_EMAIL}}.
+
+The NeedForHeat app and measurement system were originally developed by the [Energy Transition Research Group](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) at [Windesheim University of Applied Sciences](https://www.windesheim.com/) and are open source. {{ORGANISATION}} uses and maintains its own version. Windesheim is not involved in this campaign; questions about earlier Windesheim measurement campaigns (such as REDUCEDHEATCARB) belong with Windesheim itself.
 
 ## Colophon
 
@@ -60,3 +62,7 @@ The [source code of the NeedForHeat app](https://github.com/energietransitie/two
 
 The software of supporting systems, firmware, and hardware designs of measurement devices and more are also available under an open source or open hardware license [via the GitHub repositories of the Energy Transition Research Group](https://github.com/energietransitie).
 egit
+
+## Licenses, conditions and disclaimers
+
+The source code of the [NeedForHeat app](https://github.com/{{GITHUB_ORG}}/needforheat-gearup-app), the [server](https://github.com/{{GITHUB_ORG}}/needforheat-server-api) and the [firmware](https://github.com/{{GITHUB_ORG}}/needforheat-generic-firmware) is available under an [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0); the hardware designs under an open hardware license. The original versions are at [the Energy Transition Research Group on GitHub](https://github.com/energietransitie).

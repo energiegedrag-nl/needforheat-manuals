@@ -1,6 +1,8 @@
 # Over NeedForHeat
 
-De NeedForHeat app is ontwikkeld door het [lectoraat Energietransitie](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) van [hogeschool Windesheim](https://www.windesheim.nl/) voor het [onderzoeksproject REDUCEDHEATCARB](https://edu.nl/gutuc). Het onderzoek wordt uitgevoerd in samenwerking met [BDR Thermea](https://www.bdrthermeagroup.com/), moedermaatschappij van o.a. [Remeha](https://www.remeha.nl/).
+Deze meetcampagne wordt uitgevoerd door {{ORGANISATION}}. Vragen over deze campagne: {{CONTACT_EMAIL}}.
+
+De NeedForHeat app en het bijbehorende meetsysteem zijn oorspronkelijk ontwikkeld door het [lectoraat Energietransitie](https://www.windesheim.nl/onderzoek/lectoraten/energietransitie) van [hogeschool Windesheim](https://www.windesheim.nl/) en zijn open source. {{ORGANISATION}} gebruikt en onderhoudt een eigen versie. Windesheim is niet betrokken bij deze campagne; vragen over eerdere meetcampagnes van Windesheim (zoals REDUCEDHEATCARB) horen bij Windesheim zelf.
 
 ## Colofon
 
@@ -57,7 +59,4 @@ Andere onderdelen van de firmware, hardware en backend van het meetsysteem zijn 
 
 ## Licenties, condities en disclaimers
 
-De [broncode van de NeedForHeat app](https://github.com/energietransitie/twomes-app-needforheat) is beschikbaar onder een [Apache 2.0 licentie](https://github.com/energietransitie/twomes-app-needforheat/blob/main/LICENSE).
-
-Ook de [software van ondersteunende systemen](https://github.com/energietransitie/twomes-backoffice-api), [firmware](https://github.com/energietransitie#firmware-for-measurement-devices) en [hardware ontwerpen](https://github.com/energietransitie#open-hardware-for-measurement-devices) van meetapparaten en meer zijn beschikbaar onder een open source of open hardware licentie [via de GitHub repositories van het lectoraat Energietransitie](https://github.com/energietransitie).
-
+De broncode van de [NeedForHeat app](https://github.com/{{GITHUB_ORG}}/needforheat-gearup-app), de [server](https://github.com/{{GITHUB_ORG}}/needforheat-server-api) en de [firmware](https://github.com/{{GITHUB_ORG}}/needforheat-generic-firmware) is beschikbaar onder een [Apache 2.0 licentie](https://www.apache.org/licenses/LICENSE-2.0); de hardwareontwerpen onder een open hardware licentie. De oorspronkelijke versies staan bij [het lectoraat Energietransitie op GitHub](https://github.com/energietransitie).

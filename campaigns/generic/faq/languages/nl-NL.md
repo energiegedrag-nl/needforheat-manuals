@@ -25,4 +25,4 @@ Je kunt deze informatie ook vinden in de veelgestelde vragen voor het meetappara
  
 ### 4. Overige Vragen
 
-Voor andere vragen over het installeren en/of activeren van de meetapparaatjes kunt u contact opnemen met de helpdesk van het onderzoek via [needforheatonderzoek@windesheim.nl](needforheatonderzoek@windesheim.nl).
+Voor andere vragen over het installeren en/of activeren van de meetapparaatjes kunt u contact opnemen met de helpdesk van {{ORGANISATION}} via {{CONTACT_EMAIL}}.

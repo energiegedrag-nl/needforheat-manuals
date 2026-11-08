@@ -16,4 +16,4 @@ Veelgevraagde informatie over de woonkamermodule.
 Kijk in de NeedForHeat-app bij 'Bronnen' onder de sectie 'Slimme meter via Enelogic'. Als dit minder dan 2 dagen (48 uur) geleden is, gaat alles goed. Als je Enelogic net hebt toegevoegd, zie je dat meteen. Wanneer je je slimme meter aan Enelogic hebt gekoppeld, duurt het meestal 1,5 dag voordat Enelogic voor het eerst gegevens ontvangt. Daarna haalt de onderzoeksserver eenmaal per dag nieuwe gegevens op van je Enelogic-account.   
 
 ## Wat als ik andere vragen of opmerkingen heb?
-Stuur dan een e-mail naar de helpdesk van het NeedForHeat-onderzoek via [needforheatonderzoek@windesheim.nl](needforheatonderzoek@windesheim.nl).
+Stuur dan een e-mail naar de helpdesk van {{ORGANISATION}} via {{CONTACT_EMAIL}}.

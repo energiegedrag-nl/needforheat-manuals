@@ -25,4 +25,4 @@ You can also find this information in the frequently asked questions for the mon
  
 ### 4. Other Questions
 
-For other questions regarding the installation and activation of monitoring devices, you can contact the research helpdesk at [needforheatonderzoek@windesheim.nl](needforheatonderzoek@windesheim.nl).
+For other questions about installing and activating the measurement devices, please contact the helpdesk of {{ORGANISATION}} at {{CONTACT_EMAIL}}.

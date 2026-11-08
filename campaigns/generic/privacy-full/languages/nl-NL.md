@@ -1,8 +1,8 @@
-# Privacyverklaring NeedForHeat
+# Privacyverklaring {{CAMPAIGN_NAME}}
 
 ## Volledige versie
 
-versie 23 november 2023
+versie {{VERSION_DATE}}
 
 [→ korte samenvatting](../../privacy/)
 
@@ -10,149 +10,82 @@ versie 23 november 2023
 
 ---
 
+> **Voorbeeldtekst.** Dit is een sjabloon voor een organisatie die zelf een meetcampagne met NeedForHeat uitvoert. Vervang alle `{{...}}`-velden, schrap wat niet van toepassing is en laat de tekst toetsen door uw eigen functionaris gegevensbescherming (en zo nodig een ethische commissie) voordat u hem publiceert. Verwijder daarna dit kader.
+
 ## Inleiding
 
-U kunt de NeedForHeat app alleen gebruiken om deel te nemen als proefpersoon aan het onderzoeksproject [REDUCEDHEATCARB](https://edu.nl/gutuc) van hogeschool Windesheim. Hiervoor moet u zich hebben aangemeld én u moet een uitnodiging hebben ontvangen. Een uitnodiging om deel te nemen aan het onderzoek bevat een Account Activation Token, verwerkt in een link die u kunt aanklikken en/of QR-code die u kunt scannen op uw smartphone, waarna (de NeedForHeat app geïnstalleerd wordt en) de app gekoppeld wordt aan een account op de server van het onderzoek.
+Met de NeedForHeat app kunt u deelnemen aan {{CAMPAIGN_NAME}}, uitgevoerd door {{ORGANISATION}}. Daarvoor heeft u een uitnodiging nodig. Die bevat een eenmalige code (Account Activation Token), verwerkt in een link of QR-code. Daarmee wordt de app gekoppeld aan een account op de server van de campagne.
 
-Via de NeedForHeat app en de bijbehorende dienst(en) en/of website(s) gehost onder het domein energietransitiewindesheim.nl worden gegevens verwerkt in het kader van wetenschappelijk onderzoek. Dit kunnen persoonsgegevens zijn. Bij onze verwerking houden wij ons vanzelfsprekend aan de eisen die de [Algemene Verordening Gegevensbescherming (AVG)](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen) stelt. Stichting Christelijke Hogeschool Windesheim is de verantwoordelijke voor deze gegevensverwerking.
+Via de NeedForHeat app en de bijbehorende diensten en websites onder het domein {{DOMAIN}} worden gegevens verwerkt, mogelijk ook persoonsgegevens. Wij houden ons daarbij aan de [Algemene Verordening Gegevensbescherming (AVG)](https://www.autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen). {{ORGANISATION}} is de verwerkingsverantwoordelijke.
 
-## Doel van het onderzoek
+## Doel
 
-Het doel van het onderzoek is om te bepalen welke meetgegevens, hoe vaak, en met welke precisie nodig zijn over uw woning, verwarmingsinstallatie, energiegebruik en verwarmingsgedrag, om de belangrijkste kenmerken van een woning, verwarmingsinstallatie en verwarmingsgedrag goed genoeg te kunnen leren. Het doel daarvan is om adviezen te kunnen geven voor de warmtetransitie die beter passen bij specifieke woningen, installaties en verwarmingsgedrag.
+{{PURPOSE}}
 
-## Gebruik van gegevens
+*Voorbeeld: inzicht krijgen in de warmtehuishouding van uw woning (warmteverlies, verwarmingsinstallatie, stookgedrag) om advies over isoleren of een warmtepomp beter op uw situatie af te stemmen.*
 
-Door het gebruiken van onze app, dienst en/of website laat u bepaalde gegevens bij ons achter. Dat kunnen persoonsgegevens zijn. Windesheim acht een zorgvuldige omgang met uw gegevens van groot belang. Uw gegevens worden door ons dan ook zorgvuldig verwerkt en beveiligd.
+## Welke gegevens en hoe wij die scheiden
 
-Wij bewaren en gebruiken uitsluitend de gegevens die door u worden opgegeven of waarvan bij opgave duidelijk is dat ze aan ons worden verstrekt om te verwerken.
+Wij verwerken alleen gegevens die u zelf opgeeft of waarvan bij het opgeven duidelijk is dat ze aan ons worden verstrekt.
 
-Zoals hieronder nader wordt toegelicht doen we dat onder meer door uw Direct Identificerende Gegevens gescheiden te bewaren van de Overige Gegevens die u (onder meer via de NeedForHeat app) aan ons verstrekt. Uw Pseudoniem vormt de link tussen uw Direct Identificerende Gegevens en uw Overige Gegevens.
+- **Direct identificerende gegevens**: gegevens die direct naar u of uw huishouden leiden, zoals naam, adres en e-mailadres. Die hebben we nodig om u uit te nodigen en te helpen.
+- **Overige gegevens**: meetgegevens en kenmerken van uw woning en installatie, gekoppeld aan een **pseudoniem** (een unieke code) in plaats van aan uw naam.
 
-## Gegevens verkregen bij werving en aanmelding
+Beide soorten gegevens bewaren wij gescheiden. Alleen het pseudoniem verbindt ze. Die koppeling gebruiken we alleen zolang dat nodig is, bijvoorbeeld om uw vraag aan de helpdesk te beantwoorden of om contact op te nemen als er langer dan 24 uur geen meetgegevens binnenkomen.
 
-In samenwerking met BDR Thermea werven we via dochtermaatschappij Remeha deelnemers voor het onderzoek. Daarbij zetten we onder meer een online enquête in. Via de enquête verleent u toestemming voor het verwerken van het onderzoek en voor het doorsturen van data die Remeha van uw cv-ketel en/of thermostaat ontvangt naar Windesheim voor het onderzoek. 
+## Gegevens via de NeedForHeat app
 
-Bij werving en aanmelding verstrekt u Direct Identificerende Gegevens aan ons: persoonsgegevens die direct naar u zijn te herleiden als natuurlijke persoon en/of naar uw huishouden, zoals naam, adres, woonplaats, en e-mailadres. Aan deze Direct Identificerende Gegevens koppelen we een Pseudoniem (een unieke code). 
+De app installeert u via de app store van Apple of Google, of als installatiebestand van {{ORGANISATION}}. Op wat een app store met uw gegevens doet, hebben wij geen invloed; lees daarvoor de privacyverklaring van die aanbieder.
 
-Tijdens werving en aanmelding verstrekt u mogelijk ook Overige Gegevens aan ons (bijvoorbeeld via een online enquête of via Remeha), zoals informatie over uw woning en over uw verwarmingssysteem. Deze gegevens zijn niet Direct Identificerende Gegevens en niet direct te herleiden naar u als natuurlijke persoon en/of huishouden. Gedurende het onderzoek zijn deze gegevens gekoppeld aan uw Pseudoniem. Van deze mogelijkheid om gegevens te herleiden zullen we alleen gebruik maken voor zover en voor zo lang het nodig is om het onderzoek goed uit te voeren; bijvoorbeeld om een vraag van u aan de helpdesk van het onderzoek te beantwoorden of om contact met u op te kunnen nemen als er gedurende meer dan 24 uur tijd geen meetgegevens meer binnenkomen van meetapparaatjes in uw woning. 
+Na activering kunnen de volgende gegevens aan uw pseudoniem worden gekoppeld:
 
-## Gegevens verstrekt aan ons via Remeha
+1. **Meetapparaten** die u in uw woning installeert en via de app koppelt. Per apparaat toont de app welke gegevens het meet. Voorbeelden:
+   - *Slimmemetermodule*: meterstanden van gas en elektriciteit (elke 5 tot 60 minuten, afhankelijk van uw slimme meter);
+   - *Woonkamermodule*: CO₂-concentratie, temperatuur en relatieve luchtvochtigheid (elke 10 minuten), en optioneel het aantal aangemelde smartphones dat thuis is (via Bluetooth), om ventilatie te kunnen schatten;
+   - *Ketelmodule*: temperaturen en instellingen van uw cv-ketel en thermostaat.
+2. **Online databronnen** waarvoor u in de app toestemming geeft, bijvoorbeeld de slimmemeterdienst van een Overige Diensten Aanbieder (ODA). Uw gebruikersnaam en wachtwoord van die dienst ontvangen wij nadrukkelijk níet.
+3. **Antwoorden op vragen in de app**, zoals een afgeronde locatie voor weergegevens en, als u dat invult, kenmerken van uw woning.
 
-Tijdens werving en aanmelding voor dit onderzoek kunt u Remeha toestemming verlenen om gegevens over uw verwarmingssysteem met ons te delen voor het onderzoek. Dit omvat:
+Op de einddatum van de campagne stopt de dataverzameling. Wilt u eerder stoppen, meld dat dan via {{CONTACT_EMAIL}}. U kunt het verzamelen ook zelf stoppen door de meetapparaten uit te zetten en uw toestemming bij online databronnen in te trekken.
 
-- gegevens over het type cv-ketel en thermostaat dat u gebruikt;
-- tijdreeksdata gedurende de meetperiode met ongeveer één waarde per seconde:
-  -	binnentemperatuur;
-  - buitentemperatuur;
-  -	insteltemperatuur voor verwarming;
-  - hoe intensief de cv-ketel gas verbruikt;
-  -	of de cv-ketel aan het stoken is voor ruimteverwarming of warm kraanwater;
-  -	temperatuur van water dat naar de radiatoren gaat en terugkomt;
-  - hoe hard het water stroomt voor verwarming;
-  -	insteltemperatuur voor warm kraanwater;
-  -	temperatuur van warm kraanwater;
-  - hoe hard het warm kraanwater stroomt;
-  -	hoeveel gas de cv-ketel heeft gebruikt voor verwarming;
-  -	hoeveel gas de cv-ketel heeft gebruikt voor warm kraanwater.
-- beginwaarde aan het begin van de meetperiode en wijzigingen gedurende de meetperiode:
-  - thermostaatprogramma;
-  - instelling van maximale aanvoertemperatuur en het maximaal vermogen voor verwarming en warm kraanwater.
+## Diensten van derden
 
+Voor de verwerking maken wij gebruik van:
 
-## Direct verstrekte gegevens via de NeedForHeat app
+- {{HOSTING_PROVIDER}}, voor het ontvangen en opslaan van de overige gegevens;
+- {{BACKUP_PROVIDER}}, voor back-ups;
+- {{OTHER_PROCESSORS}} *(bijvoorbeeld een enquêtedienst of een ODA voor slimmemeterdata)*.
 
-Windesheim verwerkt gegevens die u verstrekt als u de NeedForHeat app downloadt en installeert.
-
-De NeedForHeat app wordt gedownload via een app store van derden, zoals Apple en Google. Wij hebben geen invloed op welke persoonsgegevens de aanbieder hiervan verwerkt en waarvoor. Wij raden u aan de relevante privacy statements te lezen van de desbetreffende aanbieder.
-
-Als u wordt uitgenodigd om deel te nemen aan het onderzoek, ontvangt u via e-mail een Account Activation Token, een eenmalig te gebruiken unieke code, gekoppeld aan uw Pseudoniem. Dit wordt gebruikt om de NeedForHeat app te koppelen aan uw Pseudoniem. Overige Gegevens die u daarna verstrekt via de NeedForHeat app kunnen daardoor ook gekoppeld worden aan uw Pseudoniem. Het kan daarbij gaan om de volgende soorten gegevens en databronnen:
-
-1. Meetgegevens die we doorlopend en automatisch ontvangen van bepaalde meetapparaatjes die u in uw woning installeert of laat installeren en koppelt met uw NeedForHeat app. Per meetapparaat zal telkens getoond worden om welke gegevens het gaat.
-1. Meetgegevens die we doorlopend en automatisch over u ontvangen van bepaalde databronnen. U kunt ons daarvoor toegang verlenen door in de NeedForHeat app in te loggen bij de databron en daar toestemming te gegeven om bepaalde gegevens door te geven aan NeedForHeat. Van zo’n databron waarvoor u via de app moet inloggen ontvangen wij nadrukkelijk NIET uw gebruikersnaam en wachtwoord voor deze databron.
-
-## Automatisch verzamelde gegevens via databronnen na toestemming
-
-Tevens ontvangen wij automatisch verzamelde gegevens uit een of meer databronnen, nádat u de benodigde stappen hebt doorlopen zoals hierboven beschreven. Ter illustratie treft u hieronder enkele voorbeelden:
-
-- *Slimmemetermonitor* 
-  - gas: meterstanden van elke 10 minuten bij moderne slimme meters (DSMR5 of nieuwer) en van elk uur bij oudere slimme meters.  
-  - elektriciteit: elke 10 minuten 4 meterstanden: geleverd tegen piektarief, geleverd tegen daltarief, teruggeleverd tegen piektarief, teruggeleverd tegen daltarief;
-- *Slimmemeterdata via een Overige Diensten Aanbieder (ODA)* 
-  - dezelfde gegevens als de *Slimmemetermonitor*, maar dan meterstanden met intervallen niet kleiner dan 15 minuten voor elektriciteit en niet kleiner dan 1 uur voor gas;
-  - meterstanden uit het recente verleden: maximaal 13 maandstanden, 40 dagstanden en 10 dagen intervaldata;
-- <i>CO<sub>2</sub>-meter met aanwezigheidsmonitor</i> 
-  - CO<sub>2</sub>-concentratie, temperatuur en relatieve luchtvochtigheid in de ruimte waar het meetapparaatje geplaatst is (elke 10 minuten);
-  - voor elk van u en uw huisgenoten: het aantal smartphones dat (automatisch) reageert op een aanwezigheidsverzoek. Aan het begin van de meetperiode vragen we u om uw smartphone aan te melden om meegeteld te worden bij de aanwezigheidsregistratie. Ook vragen we u om uw huisgenoten dat te laten doen. Daarna zal het meetapparaatje elke 10 minuten tellen hoeveel (smartphones van) geregistreerde personen thuis is. Door het aantal mensen te tellen (die CO₂ uitademen) kunnen we, door dit te combineren met metingen van CO₂-concentratie, gegevens afleiden over ventilatie en het warmteverlies daardoor.
-
-Op de einddatum van het onderzoek waaraan u deelneemt, zorgen wij ervoor dat het verzamelen van data ook stopt. Als u eerder wilt stoppen en niet langer wilt deelnemen aan het onderzoek, dan adviseren we u dat aan te geven bij de helpdesk van het onderzoek. Wij zorgen er dan voor dat de dataverzameling zo spoedig mogelijk stopt.
-
-U kunt het automatisch verzamelen van gegevens ook altijd stopzetten door de meetapparaatjes volledig uit te zetten en door in te loggen bij uw onlinegegevensbronnen en dan daar de toestemming in te trekken zodat wij geen gegevens meer van u ontvangen van die onlinegegevensbron.
-
-## Diensten van derden die wij gebruiken om uw gegevens te verwerken
-Voor het verwerken van gegevens die u aan ons verstrekt via online enquête, de NeedForHeat app, dienst en/of website, maken wij gebruik van diensten van:
-
-- *Qualtrics LLC, gevestigd in Provo, UT, Verenigde Staten*, 
-  voor het verwerken van gegevens van online enquêtes;
-- *Strato AG, gevestigd in Berlijn, Duitsland*, 
-  voor het ontvangen, opslaan en analyseren van Overige Gegevens die wij van u ontvangen;
-- *SURF B.V., gevestigd in Utrecht*, 
-  voor het opslaan van (back-ups van) Overige Gegevens die wij van u ontvangen;
-- *Google LLC, gevestigd in Mountainview, CA, USA*, 
-  voor het verwerken van gegevens nodig voor Firebase Dynamic Links, waaronder uw Account Activation Code en informatie over de NeedForHeat app in de Apple App Store en Google Play Store;
-- *Rentalsplit B.V., gevestigd in Barendrecht*, 
-  voor het automatisch uitlezen, opslaan en aan ons doorgeven van intervalstanden van uw slimme meter inclusief historische data via hun hun ODA-dienst Enelogic;
-- *Microsoft, gevestigd in Redmond, WA, USA*, 
-  voor het verwerken van gegevens via Office 365 diensten, waaronder mogelijk het analyseren van meetgegevens.
-
-Het verwerken van gegevens door elk van bovengenoemde partijen is daarbij gebonden aan een overeenkomst met de respectievelijke partij die voldoet aan de voorwaarden van de Europese Algemene Verordening Gegevensbescherming (AVG).
-
-## Gegevensuitwisseling met derde partijen
-
-Als u via de online enquête hebt aangegeven dat Remeha gegevens van uw verwarmingsinstallatie mag doorsturen, sturen wij uw toestemming (in combinatie met uw naam, adres, woonplaats, e-mailadres en pseudoniem) via een veilig kanaal door naar BDR Thermea en haar dochtermaatschappij Rehema, zodat zij ten behoeve van het onderzoek:
-
-- gepseudonimiseerde data kunnen uploaden die Remeha gedurende het meetonderzoek ontvangt van uw cv-ketel en/of thermostaat;
-- proefpersonen die contact opnemen met helpdesk van Remeha voor vragen over het onderzoek kunnen doorverwijzen naar de helpdesk van het onderzoek.
-
-Hiervoor hebben we met BDR Thermea een gegevensuitwisselingsovereenkomst gesloten. 
+Met elk van deze partijen hebben wij een verwerkersovereenkomst die voldoet aan de AVG.
 
 ## Beveiliging
 
-Wij nemen beveiligingsmaatregelen om misbruik van en ongeautoriseerde toegang tot persoonsgegevens te beperken. In het bijzonder nemen wij de volgende maatregelen:
+- Toegang tot persoonsgegevens is afgeschermd en beperkt tot de helpdesk en enkele aangewezen medewerkers.
+- App, meetapparaten en servers communiceren alleen via versleutelde verbindingen (TLS) met servers in het domein {{DOMAIN}}.
+- Direct identificerende gegevens worden apart van de overige gegevens bewaard; wie de meetgegevens analyseert, heeft geen toegang tot direct identificerende gegevens.
+- Uiterlijk {{RETENTION_PERIOD}} na afloop van de campagne verwijderen wij de koppeling tussen uw pseudoniem en uw direct identificerende gegevens.
 
-- Toegang tot persoonsgegevens wordt afgeschermd.
-- Onze app en servers maken gebruik van moderne beveiligingsmethoden en -technieken, zoals met TLS/SSL beveiligde verbindingen naar een met een certificaat geauthentiseerde servers in het energietransitiewindesheim.nl domein, zodat alle informatie tussen u, uw smartphone, de meetapparaatjes, uw onlinegegevensbronnen en onze website en diensten wordt beveiligd en u zeker weet dat deze gegevens alleen naar ons en onze servers gaan.
-- Direct Identificerende Gegevens, zoals naam, adres, woonplaats en e-mailadres worden apart opgeslagen van Overige Gegevens.
-- Toegang tot Direct Identificerende Gegevens is streng beperkt tot alleen de helpdesk van het onderzoek (bij Windesheim en de helpdesk van Remeha) en enkele onderzoekers.
-- Overige onderzoekers betrokken in het onderzoeksproject gebruiken voor hun analyses worden alleen uw Overige Gegevens; zij hebben geen toegang tot Direct Identificerende Gegevens.
-- Uiterlijk vijf jaar na afloop van het onderzoeksproject, maar in elk geval voordat we de geanonimiseerde gegevens als open data publiceren, verwijderen we overal de koppeling tussen uw Pseudoniem en uw direct identificerende gegevens.
+## Publicatie van gegevens (optioneel)
 
-## Open data
+*Schrap deze paragraaf als u geen gegevens publiceert.*
 
-Nadat uw Pseudoniem is ontkoppeld kunnen we uw Overige Gegevens publiceren als open data. Dit houdt in dat we Overige Gegevens die zijn verzameld in het onderzoek beschikbaar maken op één of meer publieke websites waar datasets voor onderzoek worden gepubliceerd, zoals GitHub (bijvoorbeeld zoals gedaan met [deze dataset](https://github.com/ictinnovaties-zorg/dataset-diabetes-adolescents-time-series-with-heart-rate)) en/of [DANS van KNAW](https://dans.knaw.nl/nl). Zo kan uw data bijdragen aan verder onderzoek dat de energietransitie ten goede komt. 
+Nadat de koppeling met uw pseudoniem is verwijderd, kunnen wij de overige gegevens publiceren als open data, zodat ze bijdragen aan verder onderzoek. Vooraf toetsen wij of de gegevens niet tot een woning of persoon te herleiden zijn, bijvoorbeeld door locaties en woningkenmerken te generaliseren. Partijen die zelf ook meetgegevens van uw woning hebben (zoals een ODA), zouden die met de gepubliceerde gegevens kunnen vergelijken. Daarom wachten wij na afloop van de campagne {{WAITING_PERIOD}} met publiceren, zodat u bij die partijen kunt vragen uw gegevens te verwijderen.
 
-Voordat de Overige Gegevens openbaar worden gemaakt, verzekert Windesheim dat deze gegevens niet direct herleidbaar zijn tot specifieke woningen of individuen. Echter, Remeha en/of Enelogic hebben gegevens die ze als een soort 'energievingerafdruk' zouden kunnen vergelijken met de te publiceren open data, waardoor ze mogelijk nog steeds deze gegevens kunnen koppelen aan specifieke woningen of individuen. Voor anderen zullen de openbaar gepubliceerde gegevens niet direct herleidbaar zijn tot specifieke woningen of individuen.
+## Websites en systemen van derden
 
-Nadat wij hebben aangegeven dat de dataverzameling voor het onderzoek is afgerond, zal er een wachttijd worden ingelast alvorens de gegevens als open data worden gepubliceerd. Gedurende deze periode heeft u als proefpersoon de gelegenheid om een verzoek in te dienen bij Remeha en/of Enelogic om specifiek de 'energievingerafdruk'-data te laten verwijderen die deze partij zelf heeft verzameld gedurende het onderzoek. Deze wachttijd stelt u als proefpersoon in staat om te verzekeren dat uw gegevens zijn verwijderd bij de betreffende partij(en) voordat de ruwe onderzoeksdata openbaar wordt gemaakt. We streven ernaar om deze wachttijd voldoende ruim te maken om u als proefpersoon de benodigde zekerheid te bieden, terwijl we ook rekening houden met het doel van de publicatie van de data en eventuele verwerkingsprocedures.
+Deze verklaring geldt niet voor systemen en websites van derden waarmee de app gekoppeld is of waarnaar de app verwijst. Lees daarvoor hun eigen privacyverklaring.
 
-## Hard- en softwaresystemen en websites van derden
+## Uw rechten
 
-Deze verklaring is niet van toepassing voor de hard- en softwaresystemen van derden waarmee de NeedForHeat app en dienst direct of indirect gekoppeld zijn, noch is deze verklaring van toepassing op websites van derden die door middel van links met de NeedForHeat app en dienst zijn verbonden. Wij kunnen niet garanderen dat deze derden op een betrouwbare of veilige manier met uw persoonsgegevens omgaan. Wij raden u aan de privacyverklaring van deze diensten te lezen alvorens van deze diensten gebruik te maken.
+U heeft recht op inzage, correctie en verwijdering van uw gegevens en kunt uw deelname altijd stoppen, zonder opgaaf van redenen. *(Bij wetenschappelijk onderzoek kunnen sommige rechten beperkt zijn op grond van artikel 44 UAVG; vermeld dat alleen als het van toepassing is.)*
 
-## Inzage, wijzigen en beperking van verwerking van uw gegevens
+Vragen of verzoeken kunt u richten aan:
 
-U kunt NeedForHeat alleen gebruiken als onderdeel van wetenschappelijk onderzoek. Mogelijk heeft u daarom conform [Artikel 44 Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&hoofdstuk=4&artikel=44&z=2019-02-19&g=2019-02-19) geen recht op inzage bij, rectificatie door en beperking van verwerking van uw gegevens door Windesheim in dit onderzoek. Wel heeft u altijd recht uw medewerking aan dit onderzoek stop te zetten, ook zonder opgaaf van redenen. Dit houdt in dat er geen nieuwe gegevens meer over u verzameld worden voor dit onderzoek
+- {{ORGANISATION}}, {{CONTACT_EMAIL}};
+- de functionaris gegevensbescherming van {{ORGANISATION}}: {{DPO_CONTACT}} *(indien aanwezig)*.
 
-Bij vragen hierover adviseren we u om contact op te nemen met:
+U kunt ook een klacht indienen bij de [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl/).
 
-- de hoofdonderzoeker van het onderzoek bij Windesheim:
-  dr.ir. Henri ter Hofte, Postbus 10090, 8000 GB Zwolle, 
-  <h.ter.hofte@windesheim.nl>; tel. 088 - 469 8153.
-- en/of de functionaris gegevensverwerking van Windesheim, Anita Polderdijk-Rijntjes, Postbus 10090, 8000 GB Zwolle, <fg@windesheim.nl>; tel. 088 - 469 9969.
+## Wijzigingen
 
-## Goedkeuring door Ethische Commissie Onderzoek Windesheim
-
-Het NeedForHeat onderzoek, als onderdeel van het onderzoeksproject [REDUCEDHEATCARB](https://edu.nl/gutuc), inclusief samenvatting en volledige privacyverklaring is [goedgekeurd door de Ethische Commissie Onderzoek van Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf).
-
-
-## Wijzigingen in deze privacyverklaring
-Wij behouden ons het recht voor om wijzigingen aan te brengen in deze verklaring. Het verdient aanbeveling om deze verklaring geregeld te raadplegen, zodat u van deze wijzigingen op de hoogte bent.
+Wij kunnen deze verklaring aanpassen. De datum bovenaan geeft de geldende versie aan.

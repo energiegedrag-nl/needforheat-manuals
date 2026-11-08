@@ -18,5 +18,5 @@ Look in the NeedForHeat app under the 'Smart meter via Enelogic' data source. If
 
 ## What if I have other questions or comments?
 
-Then, please send an email to the helpdesk of the NeedForHeat research at [needforheatresearch@windesheim.nl](needforheatresearch@windesheim.nl).
+Then, please send an email to the helpdesk of {{ORGANISATION}} at {{CONTACT_EMAIL}}.
 
