@@ -1,34 +1,27 @@
-# NeedForHeat Privacy Policy
+# Privacy statement {{CAMPAIGN_NAME}}
 
 ## Summary
 
-Version November 23, 2023
+version {{VERSION_DATE}}
 
-[→ Short Summary](../../privacy/)
+[→ short summary](../../privacy/)
 
-[→ Full Privacy Policy](../../privacy-full/)
+[→ full privacy statement](../../privacy-full/)
 
 ---
 
-This privacy policy pertains to the NeedForHeat research conducted by Windesheim University of Applied Sciences. This research is part of the larger project [REDUCEDHEATCARB](https://edu.nl/gutuc). The objective of this research is to determine the necessary measurement data to accurately understand key features of the heat dynamics in specific homes. This knowledge aims to enhance recommendations for the heat transition to better suit specific residences, installations, and households. Remeha, on behalf of Windesheim, recruits participants for the research.
+> **Example text.** Replace all `{{...}}` fields and have the text reviewed before publishing it.
 
-You, along with any housemates, can participate as a test subject in this research. Your residence must be equipped with a smart meter, a gas-fired heating system, and a functioning wireless internet connection (Wi-Fi). Additionally, you need an iPhone or Android smartphone capable of installing apps.
+This privacy statement is about {{CAMPAIGN_NAME}} by {{ORGANISATION}}. {{PURPOSE}}
 
-The research consists of two phases, and this privacy policy covers both phases.
+You can take part together with your household. You need a working Wi-Fi connection and an iPhone or Android smartphone on which you can install apps. {{ORGANISATION}} will tell you which measurement devices suit your home.
 
-- *Phase 1: Online Survey.*
-  You will receive an invitation from Remeha for an online survey. Through the survey, you grant permission for the processing of research data and the transmission of data received by Remeha from your boiler and/or thermostat to Windesheim for research purposes. The survey includes questions about your home, energy and internet connections, heating installations, and whether you and your housemates use smartphones. Based on your responses, Windesheim researchers can determine if your residence and installations are suitable for the next phase of the research and which measuring devices are suitable for your home.
-- *Phase 2: Measurement Study.*
-  If selected to participate in the measurement study during the heating season, you will receive an email with an invitation and a personal installation link for the NeedForHeat app. You may also receive one or more measurement devices suitable for your residence. The app guides you through the installation of the measurement devices and their connection to your home Wi-Fi network. If you encounter difficulties, assistance is provided. Subsequently, the measuring devices securely transmit data multiple times a day to the Windesheim researchers' database. This data includes information about your indoor environment (indoor temperature, CO₂ concentration, humidity), total electricity and natural gas consumption (including monthly interval readings up to a maximum of 13 months back), thermostat settings, heating system performance, and the presence of smartphones belonging to you and your housemates at home, based on Bluetooth proximity measurements. Remeha will also securely transmit information about your heating system and monitoring data received from your heating system during the measurement period for research purposes.
+After your invitation you install the NeedForHeat app. The app helps you install the devices and connect them to your Wi-Fi network. The devices then send measurements several times a day over a secure connection to the server of {{ORGANISATION}} under the domain {{DOMAIN}}. This concerns your indoor climate, your electricity and gas use, your heating system and, if you wish, the presence of registered smartphones. With your consent, online data sources can send data too.
 
-During the research, we use services from third parties; they process data on our behalf. We have entered into data processing agreements with these third parties.
+Your measurements are linked to a pseudonym, not to your name. We store your name and address separately and use them only to help you.
 
-You can always discontinue your participation in the research, and no new data will be transmitted to Windesheim. This can be done without providing a reason.
+We use third-party services to process data; we have a data processing agreement with each of them.
 
-After the analysis of raw research data, not only results but also raw data will be published as open data. Before making them public, Windesheim ensures that these data are not directly traceable to specific residences or individuals. However, Remeha and/or Enelogic may have data that they could compare as an 'energy fingerprint' with the publicly published data, potentially still linking this data to specific residences or individuals. For others, the publicly published data will not be directly traceable to specific residences or individuals.
+You can stop taking part at any time without giving a reason; no new data will be collected after that.
 
-To prevent Remeha and/or Enelogic from linking the publicly published data to your residence or yourself as an individual, you can exercise your 'right to be forgotten,' based on the General Data Protection Regulation (GDPR). After we indicate that data collection is complete, you can request Remeha and/or Enelogic to delete this 'energy fingerprint' data. Deleting data collected during the research period from Remeha and/or Enelogic is sufficient to prevent direct traceability.
-
-If you have any questions about this privacy policy, you can contact the lead researcher of this study and/or the Data Protection Officer at Windesheim.
-
-The research has been [approved by the Ethical Research Committee of Windesheim](../assets/231121-goedkeurende-verklaring-ECO-Windesheim-REDUCEDHEATCARB.pdf). For more information, refer to the [full privacy policy](../../privacy-full/).
+Questions? Contact us at {{CONTACT_EMAIL}}. More information is in the [full privacy statement](../../privacy-full/).
