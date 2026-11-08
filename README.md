@@ -25,7 +25,7 @@ The privacy statements are a starting point, not legal advice: have them reviewe
 
 ## What changed compared to the original
 
-- The REDUCEDHEATCARB 2023 campaign of Windesheim University of Applied Sciences, including its ethics approval, is not part of this repository. It remains available in the [original repository](https://github.com/energietransitie/needforheat-manuals). Questions about that campaign, or any other earlier Windesheim measurement campaign, should go to Windesheim.
+- The REDUCEDHEATCARB 2023 campaign of Windesheim University of Applied Sciences, including its ethics approval, is not part of this repository. It remains available in the [original repository](https://github.com/energiegedrag-nl/needforheat-manuals). Questions about that campaign, or any other earlier Windesheim measurement campaign, should go to Windesheim.
 - All `@windesheim.nl` contact addresses were removed; campaign pages use `{{CONTACT_EMAIL}}` instead. (Own `@energiegedrag.nl` addresses will follow once mail is set up.)
 
 ## License
@@ -43,7 +43,7 @@ If you use this repository in your research or work, please cite the following p
 Author:
 * Henri ter Hofte · [@henriterhofte](https://github.com/henriterhofte)
 
-This repository continues [energietransitie/needforheat-manuals](https://github.com/energietransitie/needforheat-manuals). Thanks to the authors of the original:
+This repository continues [energietransitie/needforheat-manuals](https://github.com/energiegedrag-nl/needforheat-manuals). Thanks to the authors of the original:
 * Nick van Ravenzwaaij · [@n-vr](https://github.com/n-vr)
 
 ### AI assistance

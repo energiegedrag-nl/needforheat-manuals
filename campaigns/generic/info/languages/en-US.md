@@ -58,7 +58,7 @@ Other components of the firmware, hardware, and backend of the measurement syste
 
 ## Licenses, Terms, and Disclaimers
 
-The [source code of the NeedForHeat app](https://github.com/energietransitie/twomes-app-needforheat) is available under an [Apache 2.0 license](https://github.com/energietransitie/twomes-app-needforheat/blob/main/LICENSE).
+The [source code of the NeedForHeat app](https://github.com/energiegedrag-nl/needforheat-gearup-app) is available under an [Apache 2.0 license](https://github.com/energiegedrag-nl/needforheat-gearup-app/blob/main/LICENSE).
 
 The software of supporting systems, firmware, and hardware designs of measurement devices and more are also available under an open source or open hardware license [via the GitHub repositories of the Energy Transition Research Group](https://github.com/energietransitie).
 egit
