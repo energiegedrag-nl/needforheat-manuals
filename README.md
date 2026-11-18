@@ -23,6 +23,17 @@ The pages under [`campaigns/generic`](campaigns/generic) are an **organisation- 
 
 The privacy statements are a starting point, not legal advice: have them reviewed by your own data protection officer (and, for research, an ethics committee) before publishing.
 
+## Device names: display name and short name
+
+Every device type in `devices/<type>/` has two names per language:
+
+| File | Example (nl-NL / en-US) | Used for |
+|---|---|---|
+| `display_names.json` | `woonkamermodule` / `living room module` | running text: manuals, privacy statement, the app |
+| `short_names.json` | `Woonkamer` / `Living room` | labels with little room: the device screen (next to the firmware version), lists in the Cockpit and the app; at most about 9 characters |
+
+Use the short name only as a label, never in sentences: "Plaats de woonkamermodule…", not "Plaats de woonkamer…". Avoid short names that are also the name of the thing being measured (the smart meter, the boiler): the smart meter module is the `P1-lezer`, not the `slimme meter`.
+
 ## What changed compared to the original
 
 - The REDUCEDHEATCARB 2023 campaign of Windesheim University of Applied Sciences, including its ethics approval, is not part of this repository. It remains available in the [original repository](https://github.com/energiegedrag-nl/needforheat-manuals). Questions about that campaign, or any other earlier Windesheim measurement campaign, should go to Windesheim.
