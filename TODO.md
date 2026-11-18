@@ -6,6 +6,7 @@ Items that touch several repositories are written out in full in one *lead* repo
 
 ## Soon: robustness and correctness
 
+- [ ] <a id="shortnames"></a>**Use the short names everywhere a label is needed.** `short_names.json` per device type (18-11-2026) is the source. Still to do: (1) the manual server copies and serves it like `display_names.json` (e.g. `GET /devices/<type>/short_names.json`); (2) the Cockpit shows short names in the inventory, flash station and campaign status; (3) the app uses them for tiles and lists, the display name in sentences; (4) the device firmware sets the same short name with `GenericESP32Firmware::SetShortName` (living room module: `Woonkamer`; P1 reader: `P1-lezer`), ideally generated from this file at build time so the two cannot drift. Also affects: needforheat-manual-server, energiegedrag-cockpit, needforheat-gearup-app, needforheat-living-room-module-firmware, needforheat-p1-reader-firmware.
 - [ ] → Robust manual server — see [needforheat-manual-server](https://github.com/energiegedrag-nl/needforheat-manual-server/blob/main/TODO.md#msrobust)
 
 ## Later: features and ideas
