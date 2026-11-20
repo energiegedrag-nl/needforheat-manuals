@@ -13,7 +13,7 @@ In addition, you are asked to connect one online data source:
 
 ### 2. How do I re-connect a measurement device?
 
-Reconnecting a measurement device to your Wi-Fi network may be necessary, for example, if you get a new Wi-Fi router or if the initial connection was unsuccessful. The process for re-connecting varies for each device. Click on the question mark next to the device name in the list on the NeedForHeat app screen, or scan the QR code on the device above `Info? Scan!`.
+Reconnecting a measurement device to your Wi-Fi network may be necessary, for example, if you get a new Wi-Fi router or if the initial connection was unsuccessful. The process for re-connecting varies for each device. Tap the question mark next to the device name in the NeedForHeat app.
 
 You can also find this information in the frequently asked questions for the monitoring device you want to re-connect.
 
