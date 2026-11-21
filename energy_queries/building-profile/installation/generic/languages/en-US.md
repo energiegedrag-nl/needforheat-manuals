@@ -1,28 +1,12 @@
-# Building profile
+# Home address (heat signature)
 
-With this question the app calculates how your home would lose and gain heat if it is as its construction year, shape, location and (if available) energy label suggest. The study compares that with what the measurements in your home show.
+You will soon be asked to provide your home address so the app can download data about your home from public registers such as the Dutch [register of addresses and buildings](https://www.kadaster.nl/zakelijk/registraties/basisregistraties/bag) (BAG) and [3D-BAG](https://3dbag.nl/). With it the app estimates the *heat signature* of your home: how much heat the home lets through, stores and gains from sun and wind. This is done solely on the basis of information from these registers (and from the energy label, if there is one).
 
-## What you do
+In the study we compare this estimate with the heat signature we derive from a few weeks of measurements.
 
-Choose your address and confirm. The app does the rest; it usually takes less than half a minute. You only do this once.
+Here are the two steps to complete this:
 
-## What the app calculates
+1. *Place the marker on your house on the map:* Move and zoom in on the map until the marker is on your house. You can also press the GPS button to go directly to your current location, which is usually your home. The address that belongs to this location is displayed and you can edit it before you confirm.
+2. *Send the calculated data:* The app fetches the data, calculates the heat signature and sends only the coarsely rounded results. This usually takes less than half a minute. Your address is not sent, for privacy reasons.
 
-From public data (the Dutch register of addresses and buildings, its 3D version and, if available, the energy label) the app calculates five characteristics of your home:
-
-- how much heat the outside of the home lets through per degree of difference;
-- how much heat the home can store;
-- how much solar heat comes in, depending on the direction of your façades;
-- how much air comes in through gaps when it is windy;
-- how airtight the home is expected to be.
-
-For the first one the app takes the city into account: in a city it is a little warmer outside than at the weather station.
-
-This only works for a single-family home (one dwelling in the building). For an apartment the app stops with a message and sends nothing.
-
-## What happens to your data
-
-- Your **address does not go to the research server**. The app asks for the public data itself, in such a way that nobody sees which home it is about: it asks for all addresses of the postcode, the buildings in an area of 300 by 300 metres, and the 3D data of your building together with that of seven other buildings nearby.
-- Only the five results go to the server, and they are first **rounded coarsely** into a few classes, so they cannot be traced back to one home.
-
-Questions? Ask the person who invited you to this study.
+This only works for a single-family home: detached, semi-detached, corner or terraced. If you live in an apartment, the app says so and nothing is sent.

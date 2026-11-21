@@ -1,18 +1,9 @@
-# Weerlocatie
+# Woonlocatie (weerzone)
 
-Met deze vraag weet het onderzoek welk weer bij uw woning hoort: buitentemperatuur, zon en wind. Die zijn nodig om uit de metingen te leren hoe uw woning warmte verliest.
+U wordt zo gevraagd om de locatie van uw huis op te geven, zodat de app uw woning kan indelen in een van de ruim 150 zeshoekige weerzones in Nederland, elk ongeveer 250 km². Deze weerzone wordt gebruikt om het weer bij uw woning te berekenen met gegevens van nabijgelegen KNMI-weerstations.
 
-## Wat u doet
+Hier zijn de drie stappen om dit te voltooien:
 
-Kies uw adres of uw huidige locatie en bevestig. Dat is alles; u hoeft dit maar één keer te doen.
-
-## Wat er met uw locatie gebeurt
-
-- Uw adres en uw precieze locatie **verlaten uw telefoon niet**.
-- De app verschuift uw locatie eerst willekeurig (gemiddeld zo'n 10 kilometer) en kiest daarna het midden van een zeshoekig vak van ongeveer 250 km² (het H3-raster). Alleen dat middelpunt gaat naar de onderzoeksserver.
-- Het vak dat u na afloop op de kaart ziet, ligt daardoor meestal niet precies rond uw huis. Dat is de bedoeling.
-- De verschuiving wordt één keer bepaald en bewaard, zodat vaker antwoorden niet alsnog uw woning verraadt.
-
-Het weer voor dat vak komt van het KNMI. Voor het onderzoek is een vak van deze grootte nauwkeurig genoeg.
-
-Vragen? Stel ze aan degene die u voor dit onderzoek uitnodigde.
+1. *Plaats de marker op uw huis op de kaart:* Versleep en zoom in op de kaart totdat de marker op uw huis staat. U kunt ook op de GPS-knop drukken om direct naar uw huidige locatie te gaan, meestal uw huis.
+2. *Bevestig uw weerzone:* Er wordt een zeshoekige zone weergegeven. De app verschuift uw locatie eerst willekeurig een stukje (gemiddeld zo'n 10 kilometer), dus uw huis ligt niet altijd in het midden, en soms net in een buurzone. Dat is de bedoeling.
+3. *Verzend de weerzone:* Alleen het midden van de weerzone wordt naar de server verzonden. Uw exacte locatie wordt om privacyredenen niet verzonden.
